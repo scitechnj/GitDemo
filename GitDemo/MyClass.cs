@@ -12,6 +12,7 @@ namespace GitDemo
 	//really?
         // why did you remove it?
 	//hello
+	//moar stuf
         private readonly int _x;
 
         public static void QuickEscalation()
