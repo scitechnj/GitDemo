@@ -19,5 +19,10 @@ namespace GitDemo
             }
         }
 
+        public void Foobar()
+        {
+            
+        }
+
     }
 }
