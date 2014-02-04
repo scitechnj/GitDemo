@@ -33,5 +33,10 @@ namespace GitDemo
         {
             Console.WriteLine(_x*2);
         }
+
+        public void DeleteSethsChanges()
+        {
+            DeleteSethsChanges();
+        }
     }
 }
