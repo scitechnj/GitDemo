@@ -24,7 +24,7 @@ namespace GitDemo
                 </div>
                 <div class="col-sm-6 col-md-4">
                     <label for="CoDateAdded">Date Added</label>
-                    <input type="text" class="form-control" name="CoDateAdded" value="@company.CoDateAdded" disabled />
+                    
                 </div>
                 <div class="col-sm-6 col-md-4">
                     <label for="CoStreet">Street</label>
