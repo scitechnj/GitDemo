@@ -30,12 +30,11 @@ namespace GitDemo
                     <label for="CoStreet">Street</label>
                     <input type="text" class="form-control" name="CoStreet" value="@company.CoStreet" disabled />
                 </div>
-            </div>
-        </form>
     </div>
 
 	//moar stuf
 	//finally a conflict
+	//i just wwant a lil conflict
         private readonly int _x;
 
         public static void QuickEscalation()
