@@ -13,23 +13,26 @@ namespace GitDemo
         // why did you remove it?
 	//hello
 	//moar stuf
-        private readonly int _x;
-
+        private readonly int _y;
+        private void Foo()
+        {
+            
+        }
         
 
-        public MyClass(int x)
+        public MyClass(int y)
         {
-            _x = x;
+            _y = y;
         }
 
         public void PrintX()
         {
-            Console.WriteLine(_x);
+            Console.WriteLine(_y);
         }
 
         public void PrintX2()
         {
-            Console.WriteLine(_x*2);
+            Console.WriteLine(_y*2);
         }
 
         public void DeleteSethsChanges()
