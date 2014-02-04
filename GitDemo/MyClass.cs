@@ -19,5 +19,10 @@ namespace GitDemo
             }
         }
 
+        public int SomeMethod()
+        {
+            return 10;
+        }
+
     }
 }
