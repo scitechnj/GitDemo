@@ -11,6 +11,7 @@ namespace GitDemo
         //this is a comment
 	//really?
         // why did you remove it?
+	//hello
         private readonly int _x;
 
         public MyClass(int x)
