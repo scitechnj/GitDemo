@@ -15,7 +15,7 @@ namespace GitDemo
 
         <div class="row">
     <div class="panel panel-info form-group">
-        <form role="form">
+        <div class="yedid sux">
             <div class="panel-heading"><h3>COMPANY</h3></div>
             <div class="panel-body">
                 <div class="col-sm-6 col-md-4">
