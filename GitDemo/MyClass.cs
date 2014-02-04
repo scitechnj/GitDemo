@@ -8,8 +8,13 @@ namespace GitDemo
 {
     public class MyClass
     {
-        //this is a comment
+
         private readonly int _x;
+
+        public static void QuickEscalation()
+        {
+            Console.WriteLine("Yedid doesn't like this method!!");
+        }
 
         public MyClass(int x)
         {
