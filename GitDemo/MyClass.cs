@@ -9,6 +9,7 @@ namespace GitDemo
     public class MyClass
     {
         //this is a comment
+
 	//really?
         // why did you remove it?
 
