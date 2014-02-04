@@ -24,5 +24,10 @@ namespace GitDemo
             return 10;
         }
 
+        public void Foobar()
+        {
+            
+        }
+
     }
 }
