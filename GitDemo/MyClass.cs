@@ -13,19 +13,21 @@ namespace GitDemo
         // why did you remove it?
         private readonly int _x;
 
-        public static void QuickEscalation()
-        {
-            Console.WriteLine("Yedid doesn't like this method!!");
-        }
 
-        public MyClass(int x)
-        {
-            _x = x;
-        }
+        // if i was shaya i would have deleted but i didnt have the guts...
+        //public static void QuickEscalation()
+        //{
+        //    Console.WriteLine("Yedid doesn't like this method!!");
+        //}
 
-        public void PrintX()
-        {
-            Console.WriteLine(_x);
+        //public MyClass(int x)
+        //{
+        //    _x = x;
+        //}
+
+        //public void PrintX()
+        //{
+        //    Console.WriteLine(_x);
         }
     }
 }
