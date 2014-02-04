@@ -10,7 +10,7 @@ namespace GitDemo
     {
         //this is a comment
 	//really?
-        // SETH THATS DISGUSTING!!!!!!!
+        
         private readonly int _x;
 
         public MyClass(int x)
