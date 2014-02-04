@@ -9,6 +9,8 @@ namespace GitDemo
     public class MyClass
     {
 
+	//really?
+        // why did you remove it?
         private readonly int _x;
 
         public static void QuickEscalation()
