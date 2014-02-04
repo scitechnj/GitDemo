@@ -8,6 +8,7 @@ namespace GitDemo
 {
     class Program
     {
+        //seth made some changes :)
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
