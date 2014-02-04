@@ -30,36 +30,28 @@ namespace GitDemo
                     <label for="CoStreet">Street</label>
                     <input type="text" class="form-control" name="CoStreet" value="@company.CoStreet" disabled />
                 </div>
-            </div>
-        </form>
     </div>
 
 	//moar stuf
-        private readonly int _y;
-        private void Foo()
-        {
-            
-        }
-        
+	//finally a conflict
+	//i just wwant a lil conflict
+        private readonly int _x;
 
-        public MyClass(int y)
-        {
-            _y = y;
-        }
 
-        public void PrintX()
-        {
-            Console.WriteLine(_y);
-        }
+        // if i was shaya i would have deleted but i didnt have the guts...
+        //public static void QuickEscalation()
+        //{
+        //    Console.WriteLine("Yedid doesn't like this method!!");
+        //}
 
-        public void PrintX2()
-        {
-            Console.WriteLine(_y*2);
-        }
+        //public MyClass(int x)
+        //{
+        //    _x = x;
+        //}
 
-        public void DeleteSethsChanges()
-        {
-            DeleteSethsChanges();
+        //public void PrintX()
+        //{
+        //    Console.WriteLine(_x);
         }
 
 
