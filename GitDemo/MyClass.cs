@@ -22,5 +22,10 @@ namespace GitDemo
         {
             Console.WriteLine(_x);
         }
+
+        public void PrintX2()
+        {
+            Console.WriteLine(_x*2);
+        }
     }
 }
