@@ -37,21 +37,21 @@ namespace GitDemo
 	//i just wwant a lil conflict
         private readonly int _x;
 
-        public static void QuickEscalation()
-        {
-            Console.WriteLine("Yedid doesn't like this method!!");
-            Console.WriteLine("Humanity does not ask us to be happy. It merely asks us to be brilliant on its behalf");
 
-        }
+        // if i was shaya i would have deleted but i didnt have the guts...
+        //public static void QuickEscalation()
+        //{
+        //    Console.WriteLine("Yedid doesn't like this method!!");
+        //}
 
-        public MyClass(int x)
-        {
-            _x = x;
-        }
+        //public MyClass(int x)
+        //{
+        //    _x = x;
+        //}
 
-        public void PrintX()
-        {
-            Console.WriteLine(_x);
+        //public void PrintX()
+        //{
+        //    Console.WriteLine(_x);
         }
     }
 }
