@@ -16,6 +16,8 @@ namespace GitDemo
         public static void QuickEscalation()
         {
             Console.WriteLine("Yedid doesn't like this method!!");
+            Console.WriteLine("Humanity does not ask us to be happy. It merely asks us to be brilliant on its behalf");
+
         }
 
         public MyClass(int x)
