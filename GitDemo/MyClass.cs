@@ -8,6 +8,7 @@ namespace GitDemo
 {
     public class MyClass
     {
+        //this is a comment
         private readonly int _x;
 
         public MyClass(int x)
